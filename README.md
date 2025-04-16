@@ -1,19 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HrbmXHfq)
-## Assignment 4
-### Due Date: 12/17/24 - 5pm EST
-
-*Assignment deadlines are strictly enforced, please do try to hand in your assignments on time, and I will honor your commitment by grading them and giving feedback in a timely manner. I do understand that sometimes there may be emergencies that we need to attend to. Please do reach out to me as soon as possible if you know you won't be able to make a deadline.*
-
----
-
-## Assignment Description
-
-For this assignment, you'll be using the ReactJS frameworks to build out the frontend portion of your app. You will be implementing a simple "Who's that Pokémon" guessing game, along with a small feature to interface with the PokéAPI to fetch additional details about the Pokémon that we had just guessed.
-
-As with previous assignments, the assets and starter/template code will be provided for you, you simply need to implement the features/requirements outlined below in this `README`.
-
----
-
 ## Setup/Getting Started
 
 - To start up the app, simply navigate to the root of the project folder (where `package.json` is) and run the `npm i` command to install all the dependencies.
@@ -24,14 +9,6 @@ As with previous assignments, the assets and starter/template code will be provi
 ![starter_img.png](started_img.png)
 
 ---
-
-## Instructions/Requirements
-
-For this assignment, you will be creating a "Who's That Pokémon" guessing game. The game/app is made up of 4 main parts, each of which template code has already been given to you, and you are simply required to finish implementing each of these 4 parts:
-
-![starter_img.png](detailed_img.png)
-
-The parts are numbered 1-4 in the image above. See below for requirements around each of these parts.
 
 ### 1) Who's that Pokémon Image
 
